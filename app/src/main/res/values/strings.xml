@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cody"\n"Record </string>
+    <string name="bottom_home">홈</string>
+    <string name="bottom_cody">코디</string>
+    <string name="bottom_des">설명</string>
+    <string name="fragment_home">fragment_home</string>
+    <string name="fragment_cody">fragment_cody</string>
+    <string name="fragment_des">fragment_des</string>
+</resources>
